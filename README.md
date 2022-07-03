@@ -7,5 +7,6 @@
   
 <br />
 <p align="center">
-  <a href="https://discord.gg/z8WK5Z3GPJ/"> <i><b>VerSiton</b></a> is an student run Open-Source based, inclusive & diverse community intending to Learn, Code & grow.</i>
+  <a href="https://discord.gg/z8WK5Z3GPJ/"> <i><b>VerSiton</b></a> is an student run Open-Source based, inclusive & diverse community <br>
+platform for coding enthusiast intending to Learn, Code & grow.</i>
 </p>
