@@ -2,7 +2,7 @@
   
   <p style="text-align:center;" align="center">
   <a href="#">
-   <img align="center" src="https://github.com/VerSiton/.github/blob/main/images/versiton%20logo.png" width="15%"  height="15%"/></p>
+   <img align="center" src="images/VerSiton Logo Black with text.png" width="15%"  height="15%"/></p>
   </a>
   
 <br />
